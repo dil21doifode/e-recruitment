@@ -2,9 +2,9 @@
 1)	Install JDk
 2)	Install tomcat server with using any port number
 3)	Then Create System DSN
-3.1 Open Control Panel
-3.2 Select Administrative Tools
-3.3 Select Data sources (odbc)
+    <br>3.1 Open Control Panel<br>
+    <br>3.2 Select Administrative Tools<br>
+    <br>3.3 Select Data sources (odbc)<br>
 Then click on system DSN   
 Select Add
 Select Microsoft access driver (*.mdb,*.accdb)
